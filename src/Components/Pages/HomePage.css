@@ -1,0 +1,21 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #efefef;
+}
+  
+table {
+  border: 2px solid forestgreen;
+  width: 100%;
+  height: 100vh;
+  border-radius: 5px;
+
+}
+  
+th {
+  border-bottom: 1px solid black;
+}
